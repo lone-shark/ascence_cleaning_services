@@ -9763,3 +9763,22 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+
+.btn-warning{
+	font-size:14px; 
+	background-color: #ff2929;; 
+	color:white; 
+	border-color: #ff2929;; 
+	line-height: 2;
+}
+a{
+	color: white;
+}
+.staff{margin-bottom: 10%;}
+	
+.row .btn-primary{
+	background-color: yellow;
+	color: black;
+	pointer-events: auto;
+}
