@@ -8024,7 +8024,7 @@ h1, h2, h3, h4, h5,
   font-weight: 400; }
 
 .wrap {
-  background: #0f7fd9;
+  background: #19376D;
   padding: 0; }
   .wrap .phone {
     font-size: 12px;
@@ -8050,7 +8050,7 @@ h1, h2, h3, h4, h5,
       color: #fff; }
 
 .ftco-navbar-light {
-  background: rgba(255, 255, 255, 0.2) !important;
+  background: #0B2447 !important;
   position: absolute;
   top: 28px;
   left: 0;
@@ -8083,10 +8083,10 @@ h1, h2, h3, h4, h5,
     .ftco-navbar-light .navbar-nav {
       padding-bottom: 10px; } }
   .ftco-navbar-light .navbar-nav > .nav-item > .nav-link {
-    font-size: 14px;
+    font-size: 16px;
     padding-top: 1.8rem;
     padding-bottom: 1.8rem;
-    padding-left: 20px;
+    padding-left: 16px;
     padding-right: 20px;
     font-weight: 400;
     color: rgba(255, 255, 255, 0.9);
