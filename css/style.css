@@ -8089,7 +8089,7 @@ h1, h2, h3, h4, h5,
     padding-left: 16px;
     padding-right: 20px;
     font-weight: 400;
-    color: rgba(255, 255, 255, 0.9);
+    color: white;
     position: relative;
     opacity: 1 !important; }
     .ftco-navbar-light .navbar-nav > .nav-item > .nav-link:before {
@@ -8122,7 +8122,7 @@ h1, h2, h3, h4, h5,
         padding-right: 0;
         padding-top: .7rem;
         padding-bottom: .7rem;
-        color: rgba(0, 0, 0, 0.7); }
+        color: white; }
         .ftco-navbar-light .navbar-nav > .nav-item > .nav-link:hover {
           color: #fff; }
           .ftco-navbar-light .navbar-nav > .nav-item > .nav-link:hover:before {
@@ -8136,10 +8136,10 @@ h1, h2, h3, h4, h5,
     border-radius: 4px; }
     .ftco-navbar-light .navbar-nav > .nav-item .dropdown-menu .dropdown-item {
       font-size: 12px;
-      color: #000000; }
+      color: white; }
       .ftco-navbar-light .navbar-nav > .nav-item .dropdown-menu .dropdown-item:hover, .ftco-navbar-light .navbar-nav > .nav-item .dropdown-menu .dropdown-item:focus {
         background: #2b98f0;
-        color: #fff; }
+        color: white; }
     @media (max-width: 991.98px) {
       .ftco-navbar-light .navbar-nav > .nav-item .dropdown-menu {
         display: block !important;
@@ -8147,7 +8147,7 @@ h1, h2, h3, h4, h5,
         -webkit-box-shadow: none;
         box-shadow: none; } }
   .ftco-navbar-light .navbar-nav > .nav-item.cta > a {
-    color: #fff;
+    color: white;
     background: #2b98f0;
     border-radius: 0px; }
     @media (max-width: 767.98px) {
@@ -8156,7 +8156,7 @@ h1, h2, h3, h4, h5,
         padding-right: 15px; } }
     @media (max-width: 991.98px) {
       .ftco-navbar-light .navbar-nav > .nav-item.cta > a {
-        color: #fff;
+        color: white;
         background: #2b98f0;
         border-radius: 4px; } }
   .ftco-navbar-light .navbar-nav > .nav-item.active > a {
@@ -8169,12 +8169,12 @@ h1, h2, h3, h4, h5,
       transform: scaleX(1); }
     @media (max-width: 991.98px) {
       .ftco-navbar-light .navbar-nav > .nav-item.active > a {
-        color: #000000; }
+        color: white; }
         .ftco-navbar-light .navbar-nav > .nav-item.active > a:before {
           display: none; } }
   .ftco-navbar-light .navbar-toggler {
     border: none;
-    color: rgba(0, 0, 0, 0.5) !important;
+    color: white !important;
     cursor: pointer;
     padding-right: 0;
     text-transform: uppercase;
